@@ -48,8 +48,9 @@ h2 {
 }
 
 .project {
-    background-color: #edf7ed; /* Very light green to blend with the background */
+    background-color: #ffffff; /* White background to keep it clean */
     padding: 1em;
     margin: 10px 0;
     border-radius: 5px;
+    border: 1px solid #a3c293; /* Soft green border */
 }
