@@ -48,9 +48,8 @@ h2 {
 }
 
 .project {
-    background-color: #ffffff; /* White background to keep it clean */
+    background-color: rgba(237, 247, 237, 0.9); /* Very light green with slight transparency */
     padding: 1em;
     margin: 10px 0;
     border-radius: 5px;
-    border: 1px solid #a3c293; /* Soft green border */
 }
